@@ -26,3 +26,12 @@ Route::apiResource('produkts',ProduktController::class);
 Route::apiResource('studdents',StuddentsController::class);
 //test conflict 2
 //test conflict 2 Merge
+Route::apiResource('produkts',ProduktController::class);
+Route::apiResource('studdents',StuddentsController::class);
+//test conflict 2
+//test conflict 2 Merge
+
+Route::apiResource('ganteng',ProduktController::class);
+Route::apiResource('test',StuddentsController::class);
+//test conflict 2
+//test conflict 2 Merge
