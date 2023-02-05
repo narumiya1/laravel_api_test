@@ -26,3 +26,4 @@ Route::apiResource('produkts',ProduktController::class);
 Route::apiResource('studdents',StuddentsController::class);
 //test conflict 2
 //test conflict 2 Merge
+// 29 test conflict part 2
